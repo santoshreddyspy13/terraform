@@ -41,9 +41,7 @@ CREATE TABLE `red` (
 --
 
 INSERT INTO `red` (`id`, `full_name`, `email`, `pass`, `status`) VALUES
-(1, 'Avinash Srinivas', 'avinash.srinivas@mindtree.com', 'X2vsiq', 0),
-(3, 'Santosh Reddy N', 'santosh.n@mindtree.com', 'Test@123', 1),
-(4, 'Ancy Alexander', 'ancy.alexander@mindtree.com', 'Ancy@123', 1);
+(1, 'Automation Team', 'automation.team@mindtree.com', 'Test@123', 1);
 
 --
 -- Indexes for dumped tables
